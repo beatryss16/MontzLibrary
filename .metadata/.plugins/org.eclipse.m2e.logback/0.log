@@ -9,3 +9,9 @@
 2024-12-11 14:50:07,363 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-12-11 14:50:07,388 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources from src\main\resources to target\classes
 2024-12-11 14:50:07,411 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\20201204010021\Desktop\Montz Library\MontzLibrary\exemplo.security6.4.base\src\test\resources
+2024-12-11 15:01:35,877 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 15:01:35,885 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources from src\main\resources to target\classes
+2024-12-11 15:01:35,892 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\20201204010021\Desktop\Montz Library\MontzLibrary\exemplo.security6.4.base\src\test\resources
+2024-12-11 15:01:58,008 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-11 15:01:58,063 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources from src\main\resources to target\classes
+2024-12-11 15:01:58,075 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\20201204010021\Desktop\Montz Library\MontzLibrary\exemplo.security6.4.base\src\test\resources
